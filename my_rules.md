@@ -10,6 +10,7 @@ I will code for at least an hour every day for the next 100 days.
 2. I will update [the log](log.md) with the day's progress and provide a link so that others can see my progress.
 
 ## Contents
-* [Read Me](readme.md)
-* [My rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - see my progress](log.md)
+* [Rules (customized)](my-rules.md)
+* [Read me - for mor informations](readme.md)
+* [Original repository](https://github.com/kallaway/100-days-of-code)
