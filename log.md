@@ -6,7 +6,8 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ### Day 3
 Started the day with [logical puzzles](https://brilliant.org/daily-problems/), continued with a practice of CSS selectors and CSS specificity rules.
-💡Did you know Specifishity? If not, you should definitely [check it out](https://specifishity.com/)! 
+💡Did you know Specifishity? If not, you should definitely [check it out](https://specifishity.com/)! Also shoutout for amazing [CSS Diner](https://flukeout.github.io/)!
+
 
 ### Day 2
 Solved some logical puzzles, practiced basic HTML/CSS and committed myself to Git (pun intended).
