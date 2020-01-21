@@ -4,8 +4,10 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
+### Day 8 (2019-20-01)
+I started working with a Sass and was introduced to Gulp. Done a [simple page](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-06-css/sass-excercise) with a lot of flexbox and styling. Learned about adding icons to HTML. 
 
-### Day 7
+### Day 7 (2019-19-01)
 Took an easy day with some [Flexbox Zombies](https://mastery.games/p/flexbox-zombies) killing and then listened to awesome-teachers David Malan & Colt Steele on [CodeNewbie Podcasts](https://www.codenewbie.org/podcast). Key takeaway: 
 
 "You don't have to understand everything at once. Learning takes time."
