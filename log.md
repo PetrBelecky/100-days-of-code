@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
+### Day 11 (2019-23-01)
+
+### Day 10 (2019-22-01)
+I was introduced to a [BEM notation](http://getbem.com/introduction/) and I am immediately loving it. Done some [simple pages](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-08-html-css) using BEM. 
+
+### Day 9 (2019-21-01)
+For the first time got my hands on media-queries and tried the mobile-first mindset. Also worked on some HTML forms.  
+
 ### Day 8 (2019-20-01)
 I started working with a Sass and was introduced to Gulp. Done a [simple page](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-06-css/sass-excercise) with a lot of flexbox and styling. Learned about adding icons to HTML. 
 
@@ -11,7 +19,6 @@ I started working with a Sass and was introduced to Gulp. Done a [simple page](h
 Took an easy day with some [Flexbox Zombies](https://mastery.games/p/flexbox-zombies) killing and then listened to awesome-teachers David Malan & Colt Steele on [CodeNewbie Podcasts](https://www.codenewbie.org/podcast). Key takeaway: 
 
 "You don't have to understand everything at once. Learning takes time."
-
 
 ### Day 6 (2019-18-01)
 I have spent the whole day with a flexbox and I am starting to feel comfortable working with it. Big shout-out to CSS games [Flexbox Froggy](http://flexboxfroggy.com/), [Flexbox Defense](http://www.flexboxdefense.com/) a [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)! It helped me a lot! 
