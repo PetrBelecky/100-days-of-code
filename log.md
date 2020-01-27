@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
+### Day 15 (2019-27-01)
+Refreshed [JavaScript basics](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-11-javascript/js-exercise) and practiced logic with some puzzles.
+
 ### Day 14 (2019-26-01) 
-Took an easy day to regenerate a bit and watched some videos from Brad Traversy and Andy Sterkowitz. 
+Took an easy day to regenerate a bit and watched some videos from [Brad Traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) and [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA). 
 
 ### Day 13 (2019-25-01)
 Done a little bit of form styling on my portfolio page (btw I hate you, textarea).
