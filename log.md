@@ -4,7 +4,17 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
+### Day 14 (2019-26-01) 
+Took an easy day to regenerate a bit and watched some videos from Brad Traversy and Andy Sterkowitz. 
+
+### Day 13 (2019-25-01)
+Done a little bit of form styling on my portfolio page (btw I hate you, textarea).
+
+### Day 12 (2019-24-01)
+Goal was to make a website in a day. Haven't finished it completely, but done some great teamwork and practiced a git workflow. 
+
 ### Day 11 (2019-23-01)
+Practiced git teamwork with branching and pulling, and worked on my [portfolio](https://github.com/PetrBelecky/portfolio).
 
 ### Day 10 (2019-22-01)
 I was introduced to a [BEM notation](http://getbem.com/introduction/) and I am immediately loving it. Done some [simple pages](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-08-html-css) using BEM. 
