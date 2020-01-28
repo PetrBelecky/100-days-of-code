@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
+### Day 16 (2019-28-01)
+Refresher and practice for JavaScript if/else statements and some ES6 arrow functions, also [practiced a DOM manipulation](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-12-javascript).  
+
 ### Day 15 (2019-27-01)
 Refreshed [JavaScript basics](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-11-javascript/js-exercise) and practiced logic with some puzzles.
 
