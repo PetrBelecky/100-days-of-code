@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
+### Day 18 (2019-30-01)
+Dived into DOM events. Done some [easy practice](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-14-javascript/timers-practice) and made a [simple calculator](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-14-javascript/calculator-advanced).
+
+### Day 17 (2019-29-01)
+Finished some exercises targeted on DOM manipulation from previous days and tried to move on with my portfolio page. Brokedown a file structure according to Sass atomicity principle a finished a footer. Still struggling with the colors though. 
+
 ### Day 16 (2019-28-01)
 Refresher and practice for JavaScript if/else statements and some ES6 arrow functions, also [practiced a DOM manipulation](https://github.com/PetrBelecky/bootcamp-excercises/tree/master/day-12-javascript).  
 
