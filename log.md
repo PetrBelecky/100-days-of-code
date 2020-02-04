@@ -6,7 +6,7 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ### Day 23 (2019-04-02)
 
-Done a few excercises of DOM manipulation with `createElement()` and `appendChild()` methods. Also finished some Kata on [Codewars](https://www.codewars.com/users/PetrBelecky);
+Done a few excercises of DOM manipulation with `createElement()` and `appendChild()` methods. Took introduction lesson for JavaScript Classes. Also finished some Kata on [Codewars](https://www.codewars.com/users/PetrBelecky);
 
 ### Day 22 (2019-03-02)
 
