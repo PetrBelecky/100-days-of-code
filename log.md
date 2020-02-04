@@ -4,11 +4,19 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
-### Day 21 (2019-03-01)
+### Day 23 (2019-04-02)
 
-Addded subtle transitions to buttons on the portfolio page and watched some YT videos about BEM notation and JavaScript events.
+Done a few excercises of DOM manipulation with `createElement()` and `appendChild()` methods. Also finished some Kata on [Codewars](https://www.codewars.com/users/PetrBelecky);
 
-### Day 20 (2019-02-01)
+### Day 22 (2019-03-02)
+
+Done a few exercises with array manipulation. I also practiced some DOM manipulation.
+
+### Day 21 (2019-02-02)
+
+Added subtle transitions to buttons on the portfolio page and watched some YT videos about BEM notation and JavaScript events.
+
+### Day 20 (2019-01-02)
 
 Finished buttons on my portfolio page.
 
