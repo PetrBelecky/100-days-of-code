@@ -4,6 +4,20 @@ The log of my #100DaysOfCode challenge. It started on January 13th, 2020.
 
 ## Log
 
+
+
+### Day 27 (2019-07-02)
+I watched some YT videos and read about Git & tried to process commands and principles I have not yet known. I changed my prompt in terminal (iTerm) and learned about differences between zsh vs bash regarding the command prompt. 
+
+### Day 26 (2019-07-02)
+Hackaton at Bootcamp: Spent a whole day making [Pacman-like game](https://github.com/pstrauli/PacMan). Used JS Classes & methods. 
+
+### Day 25 (2019-06-02)
+Learned about components in JS. Done some exercises to learn about the state of the component. All done in Vanilla JS to be prepared for React.
+
+### Day 24 (2019-05-02)
+Done some DOM manipulation with JS and done some JS Classes exercises.
+
 ### Day 23 (2019-04-02)
 
 Done a few excercises of DOM manipulation with `createElement()` and `appendChild()` methods. Took introduction lesson for JavaScript Classes. Also finished some Kata on [Codewars](https://www.codewars.com/users/PetrBelecky);
